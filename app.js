@@ -17,4 +17,4 @@ app.use("/", routes)
 
 app.listen(process.env.PORT, () => {
     console.log(`server connected http://localhost:${process.env.PORT}`);
-})
+}) 
